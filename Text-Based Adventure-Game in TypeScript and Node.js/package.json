@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.14.9"
+  },
+  "name": "text-based-adventure-game-in-typescript-and-node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
